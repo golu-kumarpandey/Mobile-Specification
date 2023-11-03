@@ -5,11 +5,12 @@
     border-style: solid;
     border-color: 0a1f44;
     font-family: Roboto;
+    font-weight: bold;
 }
 
 .image {
-    height: 50vh;
    width: 100%;
+   
 }
 
 .card-container {
@@ -38,4 +39,5 @@
 .button {
     font-size: 12px;
     margin-bottom: 10px;
+    font-weight: bold;
 }
